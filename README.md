@@ -40,8 +40,7 @@ The output is a CSV file with:
 - **Columns**: Genes identified by Abricate.
 - **Values**: `1` if the gene passes thresholds, `0` otherwise.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contact
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit pull requests for enhancements or bug fixes.
+For questions or issues, please contact [sb474@st-andrews.ac.uk](mailto:sb474@st-andrews.ac.uk).
+
