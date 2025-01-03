@@ -27,7 +27,7 @@ python abricate-csv.py [abricate_output_tab_file]
 
 ### Example Command
 ```
-python abricate-csv.py results_plasmid.tab -identity 95 -coverage 85 -output abricate-summary.csv
+python3 abricate-csv.py results_plasmid.tab -identity 95 -coverage 85 -output abricate-summary.csv
 ```
 
 ## Requirements
